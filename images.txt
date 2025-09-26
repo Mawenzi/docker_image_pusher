@@ -10,4 +10,4 @@ xhofe/alist:latest
 eclipse-temurin:8-jre
 eclipse-temurin:17-jre
 mysql:8.0.43
-minio:latest
+minio/minio:latest
