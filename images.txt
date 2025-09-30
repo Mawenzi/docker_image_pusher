@@ -11,3 +11,4 @@ eclipse-temurin:8-jre
 eclipse-temurin:17-jre
 mysql:8.0.43
 minio/minio:latest
+quay.io/minio/minio:latest
