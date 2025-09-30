@@ -12,3 +12,4 @@ eclipse-temurin:17-jre
 mysql:8.0.43
 minio/minio:latest
 quay.io/minio/minio:latest
+minio/minio:RELEASE.2025-04-22T22-12-26Z
